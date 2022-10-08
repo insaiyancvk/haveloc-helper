@@ -7,6 +7,8 @@ Current features:
   - Export all company data as csv file
   - Direct to job application pages
 
+![preview.png](./assets/preview.png)
+
 How to use it:
 - Check if you have python. To check it, open cmd and do the following:
   - Run `python --version`
